@@ -4,4 +4,5 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Test ettikn motoru taktık
+![The San Juan Mountains are beautiful!](https://mecokullari.k12.tr/wp-content/uploads/2022/04/görsel-uzamsal-zeka-nedir.webp "San Juan Mountains")
