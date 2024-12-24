@@ -1,12 +1,12 @@
 ---
 title: "Shock Absorber"
-excerpt: "Custom suspension system integration for the motorized wheel<br/><img src='/images/portfolio2.png'>"
+excerpt: "Custom suspension system integration for the motorized wheel<br/><img src='/images/Portfolio/Shock_Absorber/20241224Shockabsorbercover.png'>"
 collection: portfolio
 ---
 
 This custom shock absorber is a critical component in the Handcart Motorization, designed to mitigate vibrations and ensure smooth operation under dynamic loads.  
 <p align="center">
-    <img src="/images/portfolio2-1.png"/>
+    <img src="/images/Portfolio/Shock_Absorber/20241224parts.png"/>
     <br>
     <sub><i> Figure 1: Parts of the Shock Absorber.</i></sub>
 </p>
@@ -14,7 +14,7 @@ This custom shock absorber is a critical component in the Handcart Motorization,
 -   The stainless steel spring is bought due to its high elasticity and fatigue resistance, essential for absorbing repeated shocks.  
 
   <p align="center">
-    <img src="/images/portfolio2-2.png"/>
+    <img src="/images/Portfolio/Shock_Absorber/20241224explodedview.png"/>
     <br>
     <sub><i> Figure 2: Exploded view of shock absorber assembly.</i></sub>
 </p>
@@ -23,7 +23,7 @@ This custom shock absorber is a critical component in the Handcart Motorization,
 
   
 <p align="center">
-    <img src="/images/portfolio2-3.png"/>
+    <img src="/images/Portfolio/Shock_Absorber/20241224assembly.png"/>
     <br>
     <sub><i> Figure 3: Assembly to the system.</i></sub>
 </p>  
