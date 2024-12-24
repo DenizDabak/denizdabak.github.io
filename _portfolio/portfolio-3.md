@@ -1,6 +1,6 @@
 ---
 title: "The Bevel Gearbox"
-excerpt: "Designing a gearbox with SolidWorks <br/><img src='/images/portfolio3.png'>"
+excerpt: "Designing a gearbox with SolidWorks <br/><img src='/images/Portfolio/BevelGearbox/20241224_rotation_animation.gif'>"
 collection: portfolio
 ---
 
