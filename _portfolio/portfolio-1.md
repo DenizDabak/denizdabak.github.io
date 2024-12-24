@@ -1,6 +1,6 @@
 ---
 title: "The Handcart Motorization"
-excerpt: "Transforming Traditional Handcarts into Powered Systems<br/><img src='/images/portfolio1.png'>"
+excerpt: "Transforming Traditional Handcarts into Powered Systems<br/><img src='/images/Portfolio/Handcartmotorization/cover.png'>"
 collection: portfolio
 ---
 
