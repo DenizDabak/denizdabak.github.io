@@ -13,6 +13,7 @@ The project consists of 3 Milestones with concept design, product design and doc
 | Asude Sivrikaya | Industrial Eng. |
 | Emmanuel Gerald Ndour | Electrical Eng. |
 | Selin Keser | Industrial Eng. |  
+| Gurprit Basra | Mechatronics Eng. |
 
  <p align="center">
 <sub>
