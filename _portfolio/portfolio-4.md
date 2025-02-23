@@ -1,42 +1,30 @@
 ---
-title: "Il Bombo: Factory Design and Production Optimization"
-excerpt: "Designing a Factory for Efficient Scooter Production<br/><img src='/images/Portfolio/Il Bombo/20241224Productionline.png'>"
+title: "The Bevel Gearbox"
+excerpt: "Designing a gearbox with SolidWorks <br/><img src='/images/Portfolio/BevelGearbox/20241224_rotation_animation.gif'>"
 collection: portfolio
+permalink: /portfolio/thebevelgearbox
 ---
 
-This project focuses on designing a production facility capable of manufacturing 120,000 scooters annually. It includes detailed calculations for capacity, workforce allocation, and production line efficiency to ensure optimal operations across seven key manufacturing steps.  
+This project focuses on designing a compact and efficient bevel gearbox to transform and transfer mechanical energy between two shafts set at a 90° angle. Utilizing precision engineering, the system achieves a 3:1 gear ratio for reliable energy transmission in various mechanical applications.
+  
 <p align="center">
-    <img src="/images/Portfolio/Il Bombo/20241224Processes.png"/>
+    <img src="/images/Portfolio/BevelGearbox//20241224ballbearing.png"/>
     <br>
-    <sub><i> Figure 1: Main processes.</i></sub>
-</p>
-- Capacity calculation: Defining the number of necessary machines and workforce. 
-  - Tact time
-  - Define setups
-  - Batch sizes
-  - Which processes need workforce
-
+    <sub><i> Figure 1: Deep groove ball bearing choice.</i></sub>  
+</p>  
+ -   Incorporates bevel gears with a pressure angle of 20° for non-slip power transmission.   
+ -   Suitable for applications requiring compact and efficient torque transfer.
 
   <p align="center">
-    <img src="/images/Portfolio/Il Bombo/20241224PFMEA.png"/>
-    <br>
-    <sub><i> Figure 2: Spot welding P-FMEA.</i></sub>
+        <img src="/images/Portfolio/BevelGearbox/20241224sectionview.png"/>
+        <br>
+        <sub><i> Figure 2: Section view to see components inside.</i></sub>  
+   </p>    
+  -   Gear material: C45 steel, ensuring durability and performance.  
 
--   Integration of PFMEA (Process Failure Mode and Effects Analysis) to address potential risks in production.  
--   It has been done for every production and assembly step. 
--   Designed for a biweekly production model (4,800 units/2 weeks).
-  
-  <p align="center">
-    <img src="/images/Portfolio/Il Bombo/20241224robotcell.png"/>
-    <br>
-    <sub><i> Figure 3: Example of a robot welding cell.</i></sub>
-</p>
-<p align="center">
-    <img src="/images/Portfolio/Il Bombo/20241224_Factory_layout.png"/>
-    <br>
-    <sub><i> Figure 4: Factory Layout.</i></sub>
-</p>
- 
--   2D floor plan including production area, shipment area, traffic routes, warehouses and developing an intralogistics concept.  
-  
-  This factory design demonstrates a comprehensive approach to managing large-scale manufacturing, balancing efficiency with flexibility while addressing potential production risks through preventive measures.
+ <p align="center">
+        <img src="/images/Portfolio/BevelGearbox/20241224assembled.png"/>
+        <br>
+        <sub><i> Figure 3: 3D CAD Model of the assembled gearbox.</i></sub>  
+    </p> 
+  The assembly process included detailed interference checks, stress analysis, and material selection to balance strength and manufacturability.

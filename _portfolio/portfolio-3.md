@@ -1,29 +1,33 @@
 ---
-title: "The Bevel Gearbox"
-excerpt: "Designing a gearbox with SolidWorks <br/><img src='/images/Portfolio/BevelGearbox/20241224_rotation_animation.gif'>"
+title: "Shock Absorber"
+order: 3
+permalink: /portfolio/shockabsorber
+excerpt: "Custom suspension system integration for the motorized wheel<br/><img src='/images/Portfolio/Shock_Absorber/20241224Shockabsorbercover.png'>"
 collection: portfolio
 ---
 
-This project focuses on designing a compact and efficient bevel gearbox to transform and transfer mechanical energy between two shafts set at a 90° angle. Utilizing precision engineering, the system achieves a 3:1 gear ratio for reliable energy transmission in various mechanical applications.
-  
+This custom shock absorber is a critical component in the Handcart Motorization, designed to mitigate vibrations and ensure smooth operation under dynamic loads.  
 <p align="center">
-    <img src="/images/Portfolio/BevelGearbox//20241224ballbearing.png"/>
+    <img src="/images/Portfolio/Shock_Absorber/20241224parts.png"/>
     <br>
-    <sub><i> Figure 1: Deep groove ball bearing choice.</i></sub>  
-</p>  
- -   Incorporates bevel gears with a pressure angle of 20° for non-slip power transmission.   
- -   Suitable for applications requiring compact and efficient torque transfer.
+    <sub><i> Figure 1: Parts of the Shock Absorber.</i></sub>
+</p>
+-   ABS (Acrylonitrile Butadiene Styrene) is used for the outer housing because it is lightweight, durable and easy to manufacture with injection molding while having good impact resistance.  
+-   The stainless steel spring is bought due to its high elasticity and fatigue resistance, essential for absorbing repeated shocks.  
 
   <p align="center">
-        <img src="/images/Portfolio/BevelGearbox/20241224sectionview.png"/>
-        <br>
-        <sub><i> Figure 2: Section view to see components inside.</i></sub>  
-   </p>    
-  -   Gear material: C45 steel, ensuring durability and performance.  
+    <img src="/images/Portfolio/Shock_Absorber/20241224explodedview.png"/>
+    <br>
+    <sub><i> Figure 2: Exploded view of shock absorber assembly.</i></sub>
+</p>
 
- <p align="center">
-        <img src="/images/Portfolio/BevelGearbox/20241224assembled.png"/>
-        <br>
-        <sub><i> Figure 3: 3D CAD Model of the assembled gearbox.</i></sub>  
-    </p> 
-  The assembly process included detailed interference checks, stress analysis, and material selection to balance strength and manufacturability.
+-   The assembly method involves attaching the spring to the inner rod and all other small parts by inserting and securing it with pre-made grooves. The outer housing is then fitted over the spring and rod, using thread-like connection to lock the components in place. 
+
+  
+<p align="center">
+    <img src="/images/Portfolio/Shock_Absorber/20241224assembly.png"/>
+    <br>
+    <sub><i> Figure 3: Assembly to the system.</i></sub>
+</p>  
+
+The shock absorber design contributes to overall system stability, extending durability and enhancing user experience in practical applications.

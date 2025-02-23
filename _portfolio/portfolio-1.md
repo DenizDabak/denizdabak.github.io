@@ -2,49 +2,51 @@
 title: "The Handcart Motorization"
 excerpt: "Transforming Traditional Handcarts into Powered Systems<br/><img src='/images/Portfolio/Handcartmotorization/20241224Infographics.png'>"
 collection: portfolio
+permalink: /portfolio/thehandcartmotorization
 ---
 
-This project is an Interdisciplinary Group Project which requires collaboration between Mechanical, Industrial, Electrical and Mechatronics Engineering and it aims to motorize traditional handcarts in order to reduce physical effort and improve efficiency in manual transportation tasks.  
-The project consists of 3 Milestones with concept design, product design and documentation. Until now, project plan has been made. Different work packages and responsibilities have been assigned to colleagues based on their capabilities and shown in Gantt chart.  
+This project focused on motorizing traditional handcarts to reduce physical effort and improve transportation efficiency. The final design features a quickly attachable motorized system with a shock-absorbing mount, making it ergonomic, lightweight and easy to install.
+
+From initial freehand sketches to detailed CAD models and technical drawings, the design was refined through structural analysis, energy efficiency calculations and manufacturability considerations.
   
-| Group Members | Departments |
-|---------|---|
-| Deniz Dabak | Mechanical Eng. |
-| Asude Sivrikaya | Industrial Eng. |
-| Emmanuel Gerald Ndour | Electrical Eng. |
-| Selin Keser | Industrial Eng. |  
-| Gurprit Basra | Mechatronics Eng. |
+This project was developed in collaboration with an interdisciplinary team, combining expertise from mechanical, industrial, electrical and mechatronics engineering. My primary role focused on mechanical design, structural analysis and product optimization.
 
- <p align="center">
-<sub>
-Table 1: Colleagues.
-</sub>
-</p>
+### Key Contributions and Engineering Process
+-   Developed the motorized drive mechanism adaptable to existing handcarts.
+-   Performed stress analysis & material selection to ensure durability while keeping the system lightweight.
+-   Designed and optimized attachment brackets for quick installation using SolidWorks.
+-   Engineered the motor integration, ensuring efficient power transmission and smooth acceleration.
+-   Documented the final technical drawing & Bill of Materials (BOM) for manufacturing readiness.
+-   Made assembly layout, production planning & performed cost calculations.
 
+The following visuals showcase how the design evolved from initial sketches to the final manufacturable product.
 <p align="center">
     <img src="/images/Portfolio/Handcartmotorization/20241224Freehandsketch.png"/>
     <br>
-    <sub><i> Figure 1: Initial free hand sketches.</i></sub>
+    <sub><i> Figure 1: Initial free hand sketches - Early concept exploration.</i></sub>
 </p>
--   Designed a motorized mechanism adaptable to standard handcarts.  
--   Performed calculations to determine suitable materials and geometries.  
+  
   <p align="center">
     <img src="/images/Portfolio/Handcartmotorization/202412243Dmodelofmotorizedwheel.png"/>
     <br>
-    <sub><i> Figure 2: 3D Model of the motorized wheel.</i></sub>
+    <sub><i> Figure 2: Structural and functional refinement.</i></sub>
 </p>
-
--   Integrated SolidWorks-based 3D modeling to ensure structural stability and ergonomic handling.  
--   Developed an energy-efficient motor system for extended usability.  
+  
+  <p align="center">
+    <img src="/images/Portfolio/Handcartmotorization/20250223TechnicaldrawingBOM.jpg"/>
+    <br>
+    <sub><i> Figure 3: Final technical drawing & BOM for manufacturing feasibility.</i></sub>
+</p>
   
 <p align="center">
     <img src="/images/Portfolio/Handcartmotorization/20241224Attachmenttohandcart.png"/>
     <br>
-    <sub><i> Figure 3: Attachment to a traditional handcart.</i></sub>
+    <sub><i> Figure 4: Attachment to a traditional handcart.</i></sub>
 </p>
- 
--   3D rendering of motorized cart design in SolidWorks.  
--   Key features: Motorized wheel, quick-release attachment, user interface and sustainable design.  
-  
+### Final Design Highlights  
+-   Quick-Release Clamp System  : Tool-free attachment under 3 minutes.
+-   350W Hub Motorized Wheel        : Provides enough power to carry 100 kg up a 10% incline.
+-   Shock Absorption System     : Reduced impact forces, improving ride comfort.
+-   Optimized Manufacturing Design  : Validated optimized material selection and production feasibility.
 
-This project demonstrates a practical approach to enhancing manual labor tools, paving the way for more ergonomic and efficient designs while keeping the design lightweight.
+The system significantly reduces the physical effort required for transporting heavy loads, making it practical for industrial, agricultural and urban applications. The modular design allows it to be easily adapted to different cart sizes.
