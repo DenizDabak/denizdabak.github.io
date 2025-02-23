@@ -2,6 +2,8 @@
 title: "The Bevel Gearbox"
 excerpt: "Designing a gearbox with SolidWorks <br/><img src='/images/Portfolio/BevelGearbox/20241224_rotation_animation.gif'>"
 collection: portfolio
+permalink: /portfolio/thebevelgearbox
+sort-order: 2
 ---
 
 This project focuses on designing a compact and efficient bevel gearbox to transform and transfer mechanical energy between two shafts set at a 90° angle. Utilizing precision engineering, the system achieves a 3:1 gear ratio for reliable energy transmission in various mechanical applications.
