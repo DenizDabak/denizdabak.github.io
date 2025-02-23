@@ -3,6 +3,7 @@ title: "Il Bombo: Factory Design and Production Optimization"
 excerpt: "Designing a Factory for Efficient Scooter Production<br/><img src='/images/Portfolio/Il Bombo/20241224Productionline.png'>"
 collection: portfolio
 permalink: /portfolio/ilbombo
+sort-order: 1
 ---
 
 This project focuses on designing a production facility capable of manufacturing 120,000 scooters annually. It includes detailed calculations for capacity, workforce allocation, and production line efficiency to ensure optimal operations across seven key manufacturing steps.  

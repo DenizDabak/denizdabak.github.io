@@ -1,8 +1,9 @@
 ---
-title: "Bionic Design"
+title: "Shock Absorber"
 excerpt: "Custom suspension system integration for the motorized wheel<br/><img src='/images/Portfolio/Shock_Absorber/20241224Shockabsorbercover.png'>"
 collection: portfolio
-permalink: /portfolio/bionicdesign
+permalink: /portfolio/shockabsorber
+sort-order: 3
 ---
 
 This custom shock absorber is a critical component in the Handcart Motorization, designed to mitigate vibrations and ensure smooth operation under dynamic loads.  
