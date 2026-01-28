@@ -9,53 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Work Experience
 ======
-* May 2023: Working Student
-  * FLUXANA GmbH & Co. KG
-  * Duties includes: Assembly of Laboratory Equipments
-
-* Nov 2022: Working Student
-  * Studitemps GmbH
-  * Duties included: Order Picker-Logistic Helper
+* May 2023-Present:  FLUXANA GmbH & Co. KG
+  * Working Student
+  * Assembly of Laboratory Equipments
   
   
 Education
 ======
 
-* Mechanical Engineering, Rhein-Waal University, 2026 (expected)
+* Mechanical Engineering, Rhein-Waal University
 
 
 Skills
 ======
 * Computer Literacy
-  * Microsoft Office, Google Docs
-  * MATLAB & Simulink, SolidWorks
-  * AutoCAD, C++, Phyton, CAM
+  * Google Docs, Microsoft Office
+  * Ansys, MATLAB & Simulink, SolidWorks
+  * AutoCAD, C++, CAM, Phyton
 * Languages
-  * German   B 1.1
-  * English  C 1
+  * German   B2.1
+  * English  C1
   * Turkish  Native
-* Skill 3
 
-# Publications
-======
-   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
