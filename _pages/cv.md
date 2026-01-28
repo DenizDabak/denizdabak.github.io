@@ -9,43 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2023: Working Student
+  * FLUXANA GmbH & Co. KG
+  * Duties includes: Assembly of Laboratory Equipments
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2022: Working Student
+  * Studitemps GmbH
+  * Duties included: Order Picker-Logistic Helper
   
+  
+Education
+======
+
+* Mechanical Engineering, Rhein-Waal University, 2026 (expected)
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Computer Literacy
+  * Microsoft Office, Google Docs
+  * MATLAB & Simulink, SolidWorks
+  * AutoCAD, C++, Phyton, CAM
+* Languages
+  * German   B 1.1
+  * English  C 1
+  * Turkish  Native
 * Skill 3
 
-Publications
+# Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+   {% endfor %}</ul>
   
 Talks
 ======
